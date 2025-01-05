@@ -5,10 +5,16 @@ local LocalPlayer = Players.LocalPlayer
 local Library
 local IsDeveloper = getgenv().IsDeveloper ~= nil and getgenv().IsDeveloper == true
 local Anonymous = getgenv().IsAnonymous ~= nil and getgenv().IsAnonymous == true
+local suc
 
 if IsDeveloper then
-	Library = loadstring(readfile("SkillBooster/Library.luau"))()
+	suc, err = pcall(function() Library = loadstring(readfile("SkillBooster/Library.luau"))() end)
 else
+	Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vexgamedev/SkillBooster/refs/heads/main/Library.luau"))()
+end
+
+if not suc then
+	warn(err)
 	Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vexgamedev/SkillBooster/refs/heads/main/Library.luau"))()
 end
 
