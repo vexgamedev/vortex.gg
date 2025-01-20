@@ -10,9 +10,12 @@
    git clone https://github.com/vexgamedev/SkillBooster.git
 
 ## Credits
-   • Developer: VexGameDev
-      
-   • Script Contributions:
-    EVaneeee13 - Helper / Obfuscation Assistance
+
+### Developer
+- **VexGameDev**
+
+### Script Contributions
+- **EVaneeee13** - Helper / Obfuscation Assistance
+
 
 
