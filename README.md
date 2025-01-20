@@ -12,7 +12,7 @@
 ## Credits
    • Developer: VexGameDev
       
-      • Script Contributions:
-      EVaneeee13 - Helper / Obfuscation Assistance
+   • Script Contributions:
+    EVaneeee13 - Helper / Obfuscation Assistance
 
 
