@@ -8,3 +8,10 @@
 1. Download the script from the repository:  
    ```bash
    git clone https://github.com/vexgamedev/SkillBooster.git
+
+## Credits
+   • Developer: VexGameDev
+      • Script Contributions:
+      EVaneeee13 - Helper / Obfuscation Assistance
+
+
