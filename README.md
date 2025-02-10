@@ -1,21 +1,21 @@
-## Skill Booster
+## Skill Booster [❌ CURRENTLY DOWN FOR REWRITE]
+**Skill Booster** is a Roblox script that allows you to push through boundaries allowing you to get several advantages against your enemies, in addition of visual optimizations and/or implementations.
 
-**SkillBooster** is a powerful ROBLOX script that allows users to dynamically enhance in-game skills, bypass limits beyond potential, and dominate anyone that tries to stand in the way.
+With Skill Booster, we promise to give you a enhanced gaming experience, with several skill assistances (e.g. Parkour Assist - jumps while near a edge, etc)
 
-**Disclaimer:** This script is for educational purposes only. Use responsibly and ensure compliance with applicable laws and platform terms of service. 
+We will ensure you there will be no performance loss, neither any memory leaks making your gameplay more satisfying.
 
-## Installation  
-1. Download the script from the repository:  
-   ```bash
-   git clone https://github.com/vexgamedev/SkillBooster.git
+## Installation process
+There's no installation process silly, all you have to do is execute the script and you're ready to go on a roll.
 
 ## Credits
 
 ### Developer
-- **VexGameDev**
+- **vexgamedev**
 
 ### Script Contributions
-- **EVaneeee13** - Helper / Obfuscation Assistance
+- **vexgamedev** - Owner, main developer of Skill Booster
+- **EVaneeee13** - Helper / Obfuscation assistance
 
 
 
