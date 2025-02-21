@@ -1,7 +1,7 @@
-## Skill Booster [❌ CURRENTLY DOWN FOR REWRITE]
-**Skill Booster** is a Roblox script that allows you to push through boundaries allowing you to get several advantages against your enemies, in addition of visual optimizations and/or implementations.
+## vortex.gg [❌ CURRENTLY DOWN]
+**vortex.gg** is a Roblox script that allows you to push through boundaries allowing you to get several advantages against your enemies, in addition of visual optimizations and/or implementations.
 
-With Skill Booster, we promise to give you a enhanced gaming experience, with several skill assistances (e.g. Parkour Assist - jumps while near a edge, etc)
+With **vortex.gg**, we promise to give you a enhanced gaming experience, with several skill assistances (e.g. Parkour Assist - jumps while near a edge, etc)
 
 We will ensure you there will be no performance loss, neither any memory leaks making your gameplay more satisfying.
 
@@ -14,7 +14,7 @@ There's no installation process silly, all you have to do is execute the script 
 - **vexgamedev**
 
 ### Script Contributions
-- **vexgamedev** - Owner, main developer of Skill Booster
+- **vexgamedev** - Owner, main developer of **vortex.gg**
 - **EVaneeee13** - Helper / Obfuscation assistance
 
 
